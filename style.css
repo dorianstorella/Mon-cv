@@ -1,0 +1,56 @@
+html {
+    font-size:180%;
+    background-image:url("road-1072823_1280.jpg")
+    
+}
+h1 {
+    text-align:left;
+    font-size:60px;
+    height:70px;
+    color : white;
+    
+    
+    
+}
+img {
+    border-radius:25px;
+    padding:5px;
+    width:300px;
+    border:1px solid white;
+    
+
+
+}
+
+img:hover {
+    box-shadow:0 0 5px 4px white;
+}
+.cv2020 {
+    color:white;
+    text-align:right;
+    float:right;
+    font-size:30px
+    
+}
+table, th, td  {
+    border:2px solid orangered; 
+    color:gold;
+    background-color:black;
+    text-align:center; 
+    align-content: center;
+    display:center;
+}
+h2 {
+    border:5px solid deepskyblue;
+    padding:5px;
+    margin:5%;
+    border-radius:15px;
+    background-color:black; 
+    text-align:center;
+    color:gold;
+  
+}
+p {
+    background-color:black;
+    color:gold;
+}

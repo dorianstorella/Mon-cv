@@ -54,3 +54,9 @@ p {
     background-color:black;
     color:gold;
 }
+.adjust {
+    width: 1200px;
+    height:auto;
+    display:flex;
+    margin:30px auto;
+}
